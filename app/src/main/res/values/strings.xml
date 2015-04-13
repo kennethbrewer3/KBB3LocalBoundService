@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KBB3LocalBoundService</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="button_show_time">SHOW TIME</string>
+</resources>
